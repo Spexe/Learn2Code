@@ -1,26 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-    background-color: lightblue;
+//META{"name":"Tozzy","description":"Some theme, may or may not be my first.","author":"Spexe","version":"0.1"}*//
+
+.guilds {
+	background:;
 }
-
-h1 {
-    color: white;
-    text-align: center;
-}
-
-p {
-    font-family: verdana;
-    font-size: 20px;
-}
-</style>
-</head>
-<body>
-
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>

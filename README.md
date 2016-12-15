@@ -2,15 +2,21 @@
 <html>
 <head>
 <style>
+body {
+    background-color: #9b9b9b;
+    background-image: url("http://wallpapercave.com/wp/beFsPxl.jpg");
+    background-size: 650px 375px;
+    background-repeat: repeat-x;
+}
 h1 { /*top of the page*/
     text-align: center;
-    color: red;
+    color: #33cccc;
     font-size: 200%;
-    }
+}
 p {
     text-align: left;
-    color: black;
-    font-size: 50%;
+    color: #00ccff;
+    font-size: 75%;
 }
 #para {
     text-align: left;

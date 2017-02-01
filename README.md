@@ -5,7 +5,7 @@
 body {
     background-color: #9b9b9b;
     background-image: url("http://wallpapercave.com/wp/beFsPxl.jpg");
-    background-size: 650px 375px;
+    background-size: 705px 385px;
     background-repeat: repeat-x;
 }
 h1 { /*top of the page*/
